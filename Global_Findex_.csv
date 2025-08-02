@@ -1,0 +1,161 @@
+Country,Region,Year,Gender,Indicator,Value
+Nigeria,Sub-Saharan Africa,2011,Male,Account Ownership,43.4
+Nigeria,Sub-Saharan Africa,2011,Male,Digital Payments,92.3
+Nigeria,Sub-Saharan Africa,2011,Female,Account Ownership,84.4
+Nigeria,Sub-Saharan Africa,2011,Female,Digital Payments,44.8
+Nigeria,Sub-Saharan Africa,2014,Male,Account Ownership,82.5
+Nigeria,Sub-Saharan Africa,2014,Male,Digital Payments,13.1
+Nigeria,Sub-Saharan Africa,2014,Female,Account Ownership,78.4
+Nigeria,Sub-Saharan Africa,2014,Female,Digital Payments,55.6
+Nigeria,Sub-Saharan Africa,2017,Male,Account Ownership,28.7
+Nigeria,Sub-Saharan Africa,2017,Male,Digital Payments,59.8
+Nigeria,Sub-Saharan Africa,2017,Female,Account Ownership,92.1
+Nigeria,Sub-Saharan Africa,2017,Female,Digital Payments,90.6
+Nigeria,Sub-Saharan Africa,2021,Male,Account Ownership,35.5
+Nigeria,Sub-Saharan Africa,2021,Male,Digital Payments,32.5
+Nigeria,Sub-Saharan Africa,2021,Female,Account Ownership,61.7
+Nigeria,Sub-Saharan Africa,2021,Female,Digital Payments,91.5
+Kenya,Sub-Saharan Africa,2011,Male,Account Ownership,29.7
+Kenya,Sub-Saharan Africa,2011,Male,Digital Payments,54.7
+Kenya,Sub-Saharan Africa,2011,Female,Account Ownership,96.5
+Kenya,Sub-Saharan Africa,2011,Female,Digital Payments,41.4
+Kenya,Sub-Saharan Africa,2014,Male,Account Ownership,34.3
+Kenya,Sub-Saharan Africa,2014,Male,Digital Payments,12.4
+Kenya,Sub-Saharan Africa,2014,Female,Account Ownership,98.8
+Kenya,Sub-Saharan Africa,2014,Female,Digital Payments,57.6
+Kenya,Sub-Saharan Africa,2017,Male,Account Ownership,91.9
+Kenya,Sub-Saharan Africa,2017,Male,Digital Payments,84.7
+Kenya,Sub-Saharan Africa,2017,Female,Account Ownership,86.1
+Kenya,Sub-Saharan Africa,2017,Female,Digital Payments,46.3
+Kenya,Sub-Saharan Africa,2021,Male,Account Ownership,80.2
+Kenya,Sub-Saharan Africa,2021,Male,Digital Payments,51.1
+Kenya,Sub-Saharan Africa,2021,Female,Account Ownership,93.3
+Kenya,Sub-Saharan Africa,2021,Female,Digital Payments,52.6
+India,South Asia,2011,Male,Account Ownership,50.8
+India,South Asia,2011,Male,Digital Payments,31.8
+India,South Asia,2011,Female,Account Ownership,84.9
+India,South Asia,2011,Female,Digital Payments,61.8
+India,South Asia,2014,Male,Account Ownership,60.8
+India,South Asia,2014,Male,Digital Payments,58.0
+India,South Asia,2014,Female,Account Ownership,53.4
+India,South Asia,2014,Female,Digital Payments,82.0
+India,South Asia,2017,Male,Account Ownership,73.2
+India,South Asia,2017,Male,Digital Payments,14.3
+India,South Asia,2017,Female,Account Ownership,55.8
+India,South Asia,2017,Female,Digital Payments,37.5
+India,South Asia,2021,Male,Account Ownership,79.1
+India,South Asia,2021,Male,Digital Payments,15.5
+India,South Asia,2021,Female,Account Ownership,45.4
+India,South Asia,2021,Female,Digital Payments,16.5
+Pakistan,South Asia,2011,Male,Account Ownership,54.2
+Pakistan,South Asia,2011,Male,Digital Payments,93.7
+Pakistan,South Asia,2011,Female,Account Ownership,78.7
+Pakistan,South Asia,2011,Female,Digital Payments,46.7
+Pakistan,South Asia,2014,Male,Account Ownership,37.0
+Pakistan,South Asia,2014,Male,Digital Payments,61.8
+Pakistan,South Asia,2014,Female,Account Ownership,63.5
+Pakistan,South Asia,2014,Female,Digital Payments,39.3
+Pakistan,South Asia,2017,Male,Account Ownership,28.2
+Pakistan,South Asia,2017,Male,Digital Payments,56.3
+Pakistan,South Asia,2017,Female,Account Ownership,95.6
+Pakistan,South Asia,2017,Female,Digital Payments,37.4
+Pakistan,South Asia,2021,Male,Account Ownership,43.3
+Pakistan,South Asia,2021,Male,Digital Payments,32.0
+Pakistan,South Asia,2021,Female,Account Ownership,87.7
+Pakistan,South Asia,2021,Female,Digital Payments,31.7
+Brazil,Latin America & Caribbean,2011,Male,Account Ownership,87.9
+Brazil,Latin America & Caribbean,2011,Male,Digital Payments,61.4
+Brazil,Latin America & Caribbean,2011,Female,Account Ownership,58.0
+Brazil,Latin America & Caribbean,2011,Female,Digital Payments,51.3
+Brazil,Latin America & Caribbean,2014,Male,Account Ownership,24.2
+Brazil,Latin America & Caribbean,2014,Male,Digital Payments,82.6
+Brazil,Latin America & Caribbean,2014,Female,Account Ownership,28.6
+Brazil,Latin America & Caribbean,2014,Female,Digital Payments,20.0
+Brazil,Latin America & Caribbean,2017,Male,Account Ownership,90.8
+Brazil,Latin America & Caribbean,2017,Male,Digital Payments,63.0
+Brazil,Latin America & Caribbean,2017,Female,Account Ownership,85.2
+Brazil,Latin America & Caribbean,2017,Female,Digital Payments,12.2
+Brazil,Latin America & Caribbean,2021,Male,Account Ownership,73.1
+Brazil,Latin America & Caribbean,2021,Male,Digital Payments,22.0
+Brazil,Latin America & Caribbean,2021,Female,Account Ownership,62.6
+Brazil,Latin America & Caribbean,2021,Female,Digital Payments,44.5
+Mexico,Latin America & Caribbean,2011,Male,Account Ownership,60.1
+Mexico,Latin America & Caribbean,2011,Male,Digital Payments,61.8
+Mexico,Latin America & Caribbean,2011,Female,Account Ownership,70.1
+Mexico,Latin America & Caribbean,2011,Female,Digital Payments,90.7
+Mexico,Latin America & Caribbean,2014,Male,Account Ownership,31.5
+Mexico,Latin America & Caribbean,2014,Male,Digital Payments,89.6
+Mexico,Latin America & Caribbean,2014,Female,Account Ownership,56.7
+Mexico,Latin America & Caribbean,2014,Female,Digital Payments,85.2
+Mexico,Latin America & Caribbean,2017,Male,Account Ownership,53.6
+Mexico,Latin America & Caribbean,2017,Male,Digital Payments,19.3
+Mexico,Latin America & Caribbean,2017,Female,Account Ownership,21.2
+Mexico,Latin America & Caribbean,2017,Female,Digital Payments,27.2
+Mexico,Latin America & Caribbean,2021,Male,Account Ownership,89.5
+Mexico,Latin America & Caribbean,2021,Male,Digital Payments,68.4
+Mexico,Latin America & Caribbean,2021,Female,Account Ownership,95.6
+Mexico,Latin America & Caribbean,2021,Female,Digital Payments,52.9
+Germany,Europe & Central Asia,2011,Male,Account Ownership,64.2
+Germany,Europe & Central Asia,2011,Male,Digital Payments,13.6
+Germany,Europe & Central Asia,2011,Female,Account Ownership,97.2
+Germany,Europe & Central Asia,2011,Female,Digital Payments,11.3
+Germany,Europe & Central Asia,2014,Male,Account Ownership,40.7
+Germany,Europe & Central Asia,2014,Male,Digital Payments,22.5
+Germany,Europe & Central Asia,2014,Female,Account Ownership,48.2
+Germany,Europe & Central Asia,2014,Female,Digital Payments,19.5
+Germany,Europe & Central Asia,2017,Male,Account Ownership,34.5
+Germany,Europe & Central Asia,2017,Male,Digital Payments,48.9
+Germany,Europe & Central Asia,2017,Female,Account Ownership,70.3
+Germany,Europe & Central Asia,2017,Female,Digital Payments,63.4
+Germany,Europe & Central Asia,2021,Male,Account Ownership,76.3
+Germany,Europe & Central Asia,2021,Male,Digital Payments,21.6
+Germany,Europe & Central Asia,2021,Female,Account Ownership,40.3
+Germany,Europe & Central Asia,2021,Female,Digital Payments,60.5
+France,Europe & Central Asia,2011,Male,Account Ownership,80.1
+France,Europe & Central Asia,2011,Male,Digital Payments,77.3
+France,Europe & Central Asia,2011,Female,Account Ownership,60.8
+France,Europe & Central Asia,2011,Female,Digital Payments,12.2
+France,Europe & Central Asia,2014,Male,Account Ownership,89.4
+France,Europe & Central Asia,2014,Male,Digital Payments,88.2
+France,Europe & Central Asia,2014,Female,Account Ownership,95.9
+France,Europe & Central Asia,2014,Female,Digital Payments,62.5
+France,Europe & Central Asia,2017,Male,Account Ownership,94.6
+France,Europe & Central Asia,2017,Male,Digital Payments,93.6
+France,Europe & Central Asia,2017,Female,Account Ownership,33.9
+France,Europe & Central Asia,2017,Female,Digital Payments,35.6
+France,Europe & Central Asia,2021,Male,Account Ownership,39.9
+France,Europe & Central Asia,2021,Male,Digital Payments,16.6
+France,Europe & Central Asia,2021,Female,Account Ownership,52.1
+France,Europe & Central Asia,2021,Female,Digital Payments,80.7
+Indonesia,East Asia & Pacific,2011,Male,Account Ownership,46.1
+Indonesia,East Asia & Pacific,2011,Male,Digital Payments,10.8
+Indonesia,East Asia & Pacific,2011,Female,Account Ownership,48.9
+Indonesia,East Asia & Pacific,2011,Female,Digital Payments,76.7
+Indonesia,East Asia & Pacific,2014,Male,Account Ownership,87.8
+Indonesia,East Asia & Pacific,2014,Male,Digital Payments,28.6
+Indonesia,East Asia & Pacific,2014,Female,Account Ownership,80.5
+Indonesia,East Asia & Pacific,2014,Female,Digital Payments,87.5
+Indonesia,East Asia & Pacific,2017,Male,Account Ownership,39.7
+Indonesia,East Asia & Pacific,2017,Male,Digital Payments,20.0
+Indonesia,East Asia & Pacific,2017,Female,Account Ownership,70.3
+Indonesia,East Asia & Pacific,2017,Female,Digital Payments,68.0
+Indonesia,East Asia & Pacific,2021,Male,Account Ownership,64.0
+Indonesia,East Asia & Pacific,2021,Male,Digital Payments,86.6
+Indonesia,East Asia & Pacific,2021,Female,Account Ownership,74.6
+Indonesia,East Asia & Pacific,2021,Female,Digital Payments,64.9
+Philippines,East Asia & Pacific,2011,Male,Account Ownership,20.3
+Philippines,East Asia & Pacific,2011,Male,Digital Payments,72.1
+Philippines,East Asia & Pacific,2011,Female,Account Ownership,55.5
+Philippines,East Asia & Pacific,2011,Female,Digital Payments,65.2
+Philippines,East Asia & Pacific,2014,Male,Account Ownership,61.2
+Philippines,East Asia & Pacific,2014,Male,Digital Payments,66.5
+Philippines,East Asia & Pacific,2014,Female,Account Ownership,23.2
+Philippines,East Asia & Pacific,2014,Female,Digital Payments,72.0
+Philippines,East Asia & Pacific,2017,Male,Account Ownership,49.2
+Philippines,East Asia & Pacific,2017,Male,Digital Payments,79.4
+Philippines,East Asia & Pacific,2017,Female,Account Ownership,86.7
+Philippines,East Asia & Pacific,2017,Female,Digital Payments,31.3
+Philippines,East Asia & Pacific,2021,Male,Account Ownership,72.7
+Philippines,East Asia & Pacific,2021,Male,Digital Payments,31.9
+Philippines,East Asia & Pacific,2021,Female,Account Ownership,24.9
+Philippines,East Asia & Pacific,2021,Female,Digital Payments,73.1
